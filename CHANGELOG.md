@@ -1,3 +1,18 @@
+## [6.0.3] - Sep 6, 2026
+* Bump dependencies (device info plus)
+
+## [6.0.2] - Oct 28, 2025
+* Update compile sdk to 36
+* Update build tools version.
+
+## [6.0.1] - Oct 8, 2025
+* Bump dependencies
+
+## [6.0.0] - May 28, 2025
+* Support 16 KB page sizes
+* Bump android MLKit version
+* Match MLKit minimum sdk version (26)
+
 ## [5.0.3] - May 21, 2025
 * Fix Preview conflict with new Flutter version
 * Bump dependencies
